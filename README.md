@@ -1,6 +1,6 @@
 # A-happier-healthier-me
 
-##Overview
+## Overview
 - Find the information about people who attend A Happier Healthier Me events and target specific grants.
 
 ## What is the reason for the project?
